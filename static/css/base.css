@@ -1,0 +1,13 @@
+body {
+    width: 425px;
+    margin: 100px auto;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top p{
+    margin: 0;
+}
